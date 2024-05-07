@@ -1,0 +1,16 @@
+prod_id,sup_id,cat_id,prod_name,prod_desc,prod_price,prod_quantity,product_status
+PI001,MT101,CL001,T-shirt,Men and Women T-shirt,500,200,Available
+PI002,MT101,CL001,Jeans,Men and Women Jeans,700,250,Available
+PI003,MT101,CL001,Jackets,Mens Jacket,1100,110,Unavailable
+PI004,NK051,CS001,Lipstick,Beauty product,800,300,Available
+PI005,NK063,CS001,Eyeliner,Beauty product,700,280,Unavailable
+PI006,NK063,CS001,Foundation,Beauty product,400,190,Available
+PI007,AZ001,EL001,Laptop,Computer items,60000,25,Unavailable
+PI008,AZ001,EL001,Mobile,Electronic gadgets,35000,135,Available
+PI009,AZ015,EL001,Headphones,Electronic gadgets,1900,210,Unavailable
+PI010,AZ001,FP001,Protein,Consumption item,2500,80,Available
+PI011,AZ015,FP001,Spices,Consumption item,1400,160,Unavailable
+PI012,MT101,FW001,Shoes,Men and Women footwears,1700,300,Unavailable
+PI013,MT101,FW001,Sandals,Men and Women footwears,1400,250,Available
+PI014,GK001,HB001,Skin Cream,Face and Body cream,900,600,Available
+PI015,GK001,HB001,Medicine,Health product,1500,750,Unavailable
